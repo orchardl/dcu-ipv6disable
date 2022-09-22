@@ -5,8 +5,7 @@
 #########################################################################
 
 
-This script was created by Larsen Orchard. 
-Please reach out to him for questions/change requests
+Please reach out to the creator for questions/change requests
 
 This script will install driver updates using the Dell | Command Update Application
 
